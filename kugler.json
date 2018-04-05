@@ -1,0 +1,88 @@
+[
+
+    {
+
+        "video": "zMF4CD7i3hg?list=PLnta2Jtm8FHCq6poSeoh2S5nnn_UEx6CL"
+
+    },
+
+    {
+
+        "intro_header": "Faldende kugler. "
+
+    },
+
+    {
+
+        "intro_text": "Vi skal se på to kugler, der falder. "
+
+    },
+
+    {
+
+        "intro_knap": "Start"
+
+    },
+
+    {
+
+        "stops": [
+
+            {
+
+                "timestamp": 65,
+
+                "events": [
+
+                    {
+
+                        "eventtype": "svarknap",
+
+                        "tekst": "Hvilken kugle rammer gulvet først?",
+
+                        "svar": [
+
+                            "Den kugle, der slippes fra pinden og falder ned",
+
+                            "Den kugle, der skydes vandret ud",
+
+                            "De to kugler rammer gulvet samtidig"
+
+                        ],
+
+                        "korrekt": [
+
+                            "2"
+
+                        ],
+
+                        "feedback": "Se videoen for at kontrollere dit svar:"
+
+                    }
+
+                ]
+
+            },
+            {
+                "timestamp": 70,
+                "events": [
+                    {
+                        "eventtype": "info",
+                        "tekst": "Som du kan se rammer de to kugler gulvet samtidig. ",
+                        "svar": [
+                            "",
+                            ""
+                        ],
+                        "korrekt": [
+                            "0"
+                        ],
+                        "feedback": ""
+                    }
+                ]
+            }
+
+        ]
+
+    }
+
+]
